@@ -83,4 +83,4 @@ Here are the steps for creating splash screen in android studio using kotlin.
      </manifest>
      
 
------------------------------------|||||   HURRAY..!! YOUR APP IS READY TO DISPLAY SPLASH SCREEN.   |||||-----------------------------------
+                     ---------------|||||   HURRAY..!! YOUR APP IS READY TO DISPLAY SPLASH SCREEN.   |||||---------------
